@@ -1,5 +1,5 @@
 # defiant:
-# here's your hint
+# here's your hint,
 # son of mogh
 # ---
 # qapla' !
